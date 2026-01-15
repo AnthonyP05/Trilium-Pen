@@ -7,6 +7,7 @@ const noteTypes = [
     { type: "search", defaultMime: "" },
     { type: "relationMap", defaultMime: "application/json" },
     { type: "book", defaultMime: "" },
+    { type: "notebook", defaultMime: "application/json" },
     { type: "noteMap", defaultMime: "" },
     { type: "mermaid", defaultMime: "text/vnd.mermaid" },
     { type: "canvas", defaultMime: "application/json" },
